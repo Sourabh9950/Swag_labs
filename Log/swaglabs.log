@@ -1,0 +1,212 @@
+2023-09-13 12:23:52,611 : INFO : test_page_title_001 : 10 : Testcase test_page_title_001 is started :
+2023-09-13 12:23:52,614 : INFO : test_page_title_001 : 11 : Opening browser :
+2023-09-13 12:23:52,633 : INFO : test_page_title_001 : 13 : Page title isSwag Labs :
+2023-09-13 12:23:53,642 : INFO : test_page_title_001 : 16 : Taking screenshot :
+2023-09-13 12:23:54,146 : INFO : test_page_title_001 : 20 : Testcase test_page_title_001 is passed :
+2023-09-13 12:23:59,796 : INFO : test_login_002 : 31 : Testcase test_login_002 is started :
+2023-09-13 12:23:59,796 : INFO : test_login_002 : 32 : Opening browser :
+2023-09-13 12:23:59,798 : INFO : test_login_002 : 35 : Entering username :
+2023-09-13 12:24:00,818 : INFO : test_login_002 : 37 : Entering password :
+2023-09-13 12:24:00,956 : INFO : test_login_002 : 39 : Clicking on login button :
+2023-09-13 12:24:02,025 : INFO : test_login_002 : 41 : Checking login status :
+2023-09-13 12:24:02,046 : INFO : test_login_002 : 43 : Taking screenshot :
+2023-09-13 12:24:04,802 : INFO : test_login_002 : 49 : Clicking on menu button :
+2023-09-13 12:24:04,920 : INFO : test_login_002 : 53 : Clicking on logout button :
+2023-09-13 12:24:05,617 : INFO : test_login_002 : 56 : Testcase test_login_002 is passed :
+2023-09-13 12:25:06,393 : INFO : test_page_title_001 : 10 : Testcase test_page_title_001 is started 
+2023-09-13 12:25:06,421 : INFO : test_page_title_001 : 11 : Opening browser 
+2023-09-13 12:25:06,469 : INFO : test_page_title_001 : 13 : Page title isSwag Labs 
+2023-09-13 12:25:07,478 : INFO : test_page_title_001 : 16 : Taking screenshot 
+2023-09-13 12:25:08,778 : INFO : test_page_title_001 : 20 : Testcase test_page_title_001 is passed 
+2023-09-13 12:25:15,327 : INFO : test_login_002 : 31 : Testcase test_login_002 is started 
+2023-09-13 12:25:15,327 : INFO : test_login_002 : 32 : Opening browser 
+2023-09-13 12:25:15,327 : INFO : test_login_002 : 35 : Entering username 
+2023-09-13 12:25:15,587 : INFO : test_login_002 : 37 : Entering password 
+2023-09-13 12:25:15,781 : INFO : test_login_002 : 39 : Clicking on login button 
+2023-09-13 12:25:16,888 : INFO : test_login_002 : 41 : Checking login status 
+2023-09-13 12:25:16,949 : INFO : test_login_002 : 43 : Taking screenshot 
+2023-09-13 12:25:19,336 : INFO : test_login_002 : 49 : Clicking on menu button 
+2023-09-13 12:25:19,523 : INFO : test_login_002 : 53 : Clicking on logout button 
+2023-09-13 12:25:20,084 : INFO : test_login_002 : 56 : Testcase test_login_002 is passed 
+2023-09-13 13:21:44,500 : INFO : test_page_title_001 : 15 : Testcase test_page_title_001 is started 
+2023-09-13 13:21:44,505 : INFO : test_page_title_001 : 16 : Opening browser 
+2023-09-13 13:21:44,524 : INFO : test_page_title_001 : 18 : Page title isSwag Labs 
+2023-09-13 13:21:45,531 : INFO : test_page_title_001 : 21 : Taking screenshot 
+2023-09-13 13:21:46,440 : INFO : test_page_title_001 : 25 : Testcase test_page_title_001 is passed 
+2023-09-13 13:21:51,316 : INFO : test_login_002 : 36 : Testcase test_login_002 is started 
+2023-09-13 13:21:51,316 : INFO : test_login_002 : 37 : Opening browser 
+2023-09-13 13:21:51,317 : INFO : test_login_002 : 40 : Entering username:standard_user 
+2023-09-13 13:21:51,563 : INFO : test_login_002 : 42 : Entering password:secret_sauce 
+2023-09-13 13:21:51,690 : INFO : test_login_002 : 44 : Clicking on login button 
+2023-09-13 13:21:52,875 : INFO : test_login_002 : 46 : Checking login status 
+2023-09-13 13:21:52,898 : INFO : test_login_002 : 48 : Taking screenshot 
+2023-09-13 13:21:58,351 : INFO : test_login_002 : 54 : Clicking on menu button 
+2023-09-13 13:21:58,470 : INFO : test_login_002 : 58 : Clicking on logout button 
+2023-09-13 13:21:59,107 : INFO : test_login_002 : 61 : Testcase test_login_002 is passed 
+2023-09-13 13:23:13,176 : INFO : test_login_002 : 36 : Testcase test_login_002 is started 
+started 
+2023-09-13 13:23:13,177 : INFO : test_page_title_001 : 16 : Opening browser 
+2023-09-13 13:23:13,177 : INFO : test_login_002 : 37 : Opening browser 
+2023-09-13 13:23:13,178 : INFO : test_login_002 : 40 : Entering username:standard_user 
+2023-09-13 13:23:13,183 : INFO : test_page_title_001 : 18 : Page title isSwag Labs 
+2023-09-13 13:23:13,498 : INFO : test_login_002 : 42 : Entering password:secret_sauce 
+2023-09-13 13:23:13,598 : INFO : test_login_002 : 44 : Clicking on login button 
+2023-09-13 13:23:14,203 : INFO : test_page_title_001 : 21 : Taking screenshot 
+2023-09-13 13:23:14,273 : INFO : test_login_002 : 46 : Checking login status 
+2023-09-13 13:23:14,399 : INFO : test_login_002 : 48 : Taking screenshot 
+2023-09-13 13:23:14,978 : INFO : test_page_title_001 : 25 : Testcase test_page_title_001 is passed 
+2023-09-13 13:23:37,230 : INFO : test_login_002 : 54 : Clicking on menu button 
+2023-09-13 13:23:37,308 : INFO : test_login_002 : 58 : Clicking on logout button 
+2023-09-13 13:23:37,656 : INFO : test_login_002 : 61 : Testcase test_login_002 is passed 
+2023-09-14 13:52:37,511 : INFO : test_product_select_003 : 20 : Testcase test_login_002 is started 
+2023-09-14 13:52:37,513 : INFO : test_product_select_003 : 21 : Opening browser 
+2023-09-14 13:52:37,513 : INFO : test_product_select_003 : 24 : Entering username:standard_user 
+2023-09-14 13:52:37,852 : INFO : test_product_select_003 : 26 : Entering password:secret_sauce 
+2023-09-14 13:52:38,013 : INFO : test_product_select_003 : 28 : Clicking on login button 
+2023-09-14 13:52:38,774 : INFO : test_product_select_003 : 31 : Clicking on bag option 
+2023-09-14 13:52:39,647 : INFO : test_product_select_003 : 33 : Clicking on addcart menu 
+2023-09-14 13:52:39,743 : INFO : test_product_select_003 : 35 : Clicking on back option 
+2023-09-14 13:52:39,953 : INFO : test_product_select_003 : 37 : Clicking on Tshirt option 
+2023-09-14 13:52:40,027 : INFO : test_product_select_003 : 39 : Clicking on addcart menu 
+2023-09-14 13:52:40,127 : INFO : test_product_select_003 : 41 : Clicking on cart menu 
+2023-09-14 13:52:41,337 : INFO : test_product_select_003 : 43 : checking your message 
+2023-09-14 13:52:41,389 : INFO : test_product_select_003 : 45 : Taking screenshot for allure report 
+2023-09-14 13:52:41,504 : INFO : test_product_select_003 : 48 : Testcase test_product_select_003 passed 
+2023-09-14 13:52:41,504 : INFO : test_product_select_003 : 55 : Testcase test_product_select_003 Complited 
+2023-09-14 13:53:24,018 : INFO : test_product_select_003 : 20 : Testcase test_login_002 is started 
+2023-09-14 13:53:24,025 : INFO : test_product_select_003 : 21 : Opening browser 
+2023-09-14 13:53:24,025 : INFO : test_product_select_003 : 24 : Entering username:standard_user 
+2023-09-14 13:53:24,277 : INFO : test_product_select_003 : 26 : Entering password:secret_sauce 
+2023-09-14 13:53:24,407 : INFO : test_product_select_003 : 28 : Clicking on login button 
+2023-09-14 13:53:25,222 : INFO : test_product_select_003 : 31 : Clicking on bag option 
+2023-09-14 13:53:25,525 : INFO : test_product_select_003 : 33 : Clicking on addcart menu 
+2023-09-14 13:53:25,603 : INFO : test_product_select_003 : 35 : Clicking on back option 
+2023-09-14 13:53:25,828 : INFO : test_product_select_003 : 37 : Clicking on Tshirt option 
+2023-09-14 13:53:25,930 : INFO : test_product_select_003 : 39 : Clicking on addcart menu 
+2023-09-14 13:53:26,008 : INFO : test_product_select_003 : 41 : Clicking on cart menu 
+2023-09-14 13:53:26,581 : INFO : test_product_select_003 : 43 : checking your message 
+2023-09-14 13:53:26,597 : INFO : test_product_select_003 : 45 : Taking screenshot for allure report 
+2023-09-14 13:53:27,435 : INFO : test_product_select_003 : 48 : Testcase test_product_select_003 passed 
+2023-09-14 13:53:27,435 : INFO : test_product_select_003 : 55 : Testcase test_product_select_003 Complited 
+2023-09-14 15:53:59,187 : INFO : test_product_select_003 : 21 : Testcase test_login_002 is started 
+2023-09-14 15:53:59,188 : INFO : test_product_select_003 : 22 : Opening browser 
+2023-09-14 15:53:59,188 : INFO : test_product_select_003 : 25 : Entering username:standard_user 
+2023-09-14 15:53:59,432 : INFO : test_product_select_003 : 27 : Entering password:secret_sauce 
+2023-09-14 15:53:59,555 : INFO : test_product_select_003 : 29 : Clicking on login button 
+2023-09-14 15:54:01,465 : INFO : test_product_select_003 : 32 : Clicking on bag option 
+2023-09-14 15:54:02,007 : INFO : test_product_select_003 : 34 : Clicking on addcart menu 
+2023-09-14 15:54:02,179 : INFO : test_product_select_003 : 36 : Clicking on back option 
+2023-09-14 15:54:02,450 : INFO : test_product_select_003 : 38 : Clicking on Tshirt option 
+2023-09-14 15:54:02,588 : INFO : test_product_select_003 : 40 : Clicking on addcart menu 
+2023-09-14 15:54:02,645 : INFO : test_product_select_003 : 42 : Clicking on cart menu 
+2023-09-14 15:54:02,833 : INFO : test_product_select_003 : 45 : Clicking on checkout 
+2023-09-14 16:03:30,504 : INFO : test_checkout_004 : 21 : Testcase test_login_002 is started 
+2023-09-14 16:03:30,505 : INFO : test_checkout_004 : 22 : Opening browser 
+2023-09-14 16:03:30,505 : INFO : test_checkout_004 : 25 : Entering username:standard_user 
+2023-09-14 16:03:30,693 : INFO : test_checkout_004 : 27 : Entering password:secret_sauce 
+2023-09-14 16:03:30,821 : INFO : test_checkout_004 : 29 : Clicking on login button 
+2023-09-14 16:03:31,558 : INFO : test_checkout_004 : 32 : Clicking on bag option 
+2023-09-14 16:03:31,880 : INFO : test_checkout_004 : 34 : Clicking on addcart menu 
+2023-09-14 16:03:32,242 : INFO : test_checkout_004 : 36 : Clicking on back option 
+2023-09-14 16:03:32,783 : INFO : test_checkout_004 : 38 : Clicking on Tshirt option 
+2023-09-14 16:03:32,882 : INFO : test_checkout_004 : 40 : Clicking on addcart menu 
+2023-09-14 16:03:32,937 : INFO : test_checkout_004 : 42 : Clicking on cart menu 
+2023-09-14 16:03:33,535 : INFO : test_checkout_004 : 45 : Clicking on checkout 
+2023-09-14 16:03:34,013 : INFO : test_checkout_004 : 47 : Entering Firstname 
+2023-09-14 16:03:34,106 : INFO : test_checkout_004 : 49 : Entering Lastname 
+2023-09-14 16:03:34,199 : INFO : test_checkout_004 : 51 : Entering Zipcode 
+2023-09-14 16:03:34,290 : INFO : test_checkout_004 : 53 : Clicking on Continue Button 
+2023-09-14 16:03:34,843 : INFO : test_checkout_004 : 55 : Clicking on Finish Button 
+2023-09-14 16:03:35,735 : INFO : test_checkout_004 : 57 : Checking Successful message 
+2023-09-14 16:03:35,756 : INFO : test_checkout_004 : 59 : Taking screenshot for allure report 
+2023-09-14 16:03:35,866 : INFO : test_checkout_004 : 62 : Testcase test_checkout_004 passed 
+2023-09-14 16:03:35,866 : INFO : test_checkout_004 : 69 : Testcase test_checkout_004 Complited 
+2023-09-14 16:11:19,259 : INFO : test_login_002 : 37 : Testcase test_login_002 is started 
+ 
+2023-09-14 16:11:19,274 : INFO : test_checkout_004 : 21 : Testcase test_login_002 is started 
+2023-09-14 16:11:19,309 : INFO : test_login_002 : 38 : Opening browser 
+2023-09-14 16:11:19,309 : INFO : test_checkout_004 : 22 : Opening browser 
+2023-09-14 16:11:19,309 : INFO : test_checkout_004 : 22 : Opening browser 
+2023-09-14 16:11:19,309 : INFO : test_login_002 : 41 : Entering username:standard_user 
+2023-09-14 16:11:19,309 : INFO : test_checkout_004 : 25 : Entering username:standard_user 
+2023-09-14 16:11:19,309 : INFO : test_checkout_004 : 25 : Entering username:standard_user 
+2023-09-14 16:11:19,831 : INFO : test_login_002 : 43 : Entering password:secret_sauce 
+2023-09-14 16:11:19,917 : INFO : test_checkout_004 : 27 : Entering password:secret_sauce 
+2023-09-14 16:11:19,917 : INFO : test_checkout_004 : 27 : Entering password:secret_sauce 
+2023-09-14 16:11:20,026 : INFO : test_login_002 : 45 : Clicking on login button 
+2023-09-14 16:11:20,156 : INFO : test_checkout_004 : 29 : Clicking on login button 
+2023-09-14 16:11:20,156 : INFO : test_checkout_004 : 29 : Clicking on login button 
+2023-09-14 16:11:21,820 : INFO : test_login_002 : 47 : Checking login status 
+2023-09-14 16:11:22,099 : INFO : test_login_002 : 49 : Taking screenshot 
+2023-09-14 16:11:22,532 : INFO : test_checkout_004 : 32 : Clicking on bag option 
+2023-09-14 16:11:22,532 : INFO : test_checkout_004 : 32 : Clicking on bag option 
+2023-09-14 16:11:23,051 : INFO : test_checkout_004 : 34 : Clicking on addcart menu 
+2023-09-14 16:11:23,051 : INFO : test_checkout_004 : 34 : Clicking on addcart menu 
+2023-09-14 16:11:23,451 : INFO : test_checkout_004 : 36 : Clicking on back option 
+2023-09-14 16:11:23,451 : INFO : test_checkout_004 : 36 : Clicking on back option 
+2023-09-14 16:11:24,078 : INFO : test_checkout_004 : 38 : Clicking on Tshirt option 
+2023-09-14 16:11:24,078 : INFO : test_checkout_004 : 38 : Clicking on Tshirt option 
+2023-09-14 16:11:24,228 : INFO : test_checkout_004 : 40 : Clicking on addcart menu 
+2023-09-14 16:11:24,228 : INFO : test_checkout_004 : 40 : Clicking on addcart menu 
+2023-09-14 16:11:24,324 : INFO : test_checkout_004 : 42 : Clicking on cart menu 
+2023-09-14 16:11:24,324 : INFO : test_checkout_004 : 42 : Clicking on cart menu 
+2023-09-14 16:11:24,636 : INFO : test_login_002 : 55 : Clicking on menu button 
+2023-09-14 16:11:24,689 : INFO : test_checkout_004 : 45 : Clicking on checkout 
+2023-09-14 16:11:24,689 : INFO : test_checkout_004 : 45 : Clicking on checkout 
+2023-09-14 16:11:24,826 : INFO : test_login_002 : 59 : Clicking on logout button 
+2023-09-14 16:11:25,303 : INFO : test_checkout_004 : 47 : Entering Firstname 
+2023-09-14 16:11:25,303 : INFO : test_checkout_004 : 47 : Entering Firstname 
+2023-09-14 16:11:25,546 : INFO : test_login_002 : 62 : Testcase test_login_002 is passed 
+2023-09-14 16:11:25,547 : INFO : test_login_002 : 71 : Testcase test_login_002 is completed 
+2023-09-14 16:11:25,703 : INFO : test_checkout_004 : 49 : Entering Lastname 
+2023-09-14 16:11:25,703 : INFO : test_checkout_004 : 49 : Entering Lastname 
+2023-09-14 16:11:26,180 : INFO : test_checkout_004 : 51 : Entering Zipcode 
+2023-09-14 16:11:26,180 : INFO : test_checkout_004 : 51 : Entering Zipcode 
+2023-09-14 16:11:26,426 : INFO : test_checkout_004 : 53 : Clicking on Continue Button 
+2023-09-14 16:11:26,426 : INFO : test_checkout_004 : 53 : Clicking on Continue Button 
+2023-09-14 16:11:27,288 : INFO : test_checkout_004 : 55 : Clicking on Finish Button 
+2023-09-14 16:11:27,288 : INFO : test_checkout_004 : 55 : Clicking on Finish Button 
+2023-09-14 16:11:27,602 : INFO : test_checkout_004 : 57 : Checking Successful message 
+2023-09-14 16:11:27,602 : INFO : test_checkout_004 : 57 : Checking Successful message 
+2023-09-14 16:11:27,639 : INFO : test_checkout_004 : 59 : Taking screenshot for allure report 
+2023-09-14 16:11:27,639 : INFO : test_checkout_004 : 59 : Taking screenshot for allure report 
+2023-09-14 16:11:27,973 : INFO : test_checkout_004 : 62 : Testcase test_checkout_004 passed 
+2023-09-14 16:11:27,973 : INFO : test_checkout_004 : 62 : Testcase test_checkout_004 passed 
+2023-09-14 16:11:27,974 : INFO : test_checkout_004 : 69 : Testcase test_checkout_004 Complited 
+2023-09-14 16:11:27,974 : INFO : test_checkout_004 : 69 : Testcase test_checkout_004 Complited 
+2023-09-14 16:11:38,408 : INFO : test_page_title_001 : 15 : Testcase test_page_title_001 is started 
+2023-09-14 16:11:38,409 : INFO : test_page_title_001 : 16 : Opening browser 
+2023-09-14 16:11:38,422 : INFO : test_page_title_001 : 18 : Page title isSwag Labs 
+2023-09-14 16:11:38,729 : INFO : test_product_select_003 : 20 : Testcase test_login_002 is started 
+2023-09-14 16:11:38,729 : INFO : test_product_select_003 : 20 : Testcase test_login_002 is started 
+2023-09-14 16:11:38,729 : INFO : test_product_select_003 : 21 : Opening browser 
+2023-09-14 16:11:38,729 : INFO : test_product_select_003 : 21 : Opening browser 
+2023-09-14 16:11:38,731 : INFO : test_product_select_003 : 24 : Entering username:standard_user 
+2023-09-14 16:11:38,731 : INFO : test_product_select_003 : 24 : Entering username:standard_user 
+2023-09-14 16:11:38,953 : INFO : test_product_select_003 : 26 : Entering password:secret_sauce 
+2023-09-14 16:11:38,953 : INFO : test_product_select_003 : 26 : Entering password:secret_sauce 
+2023-09-14 16:11:39,084 : INFO : test_product_select_003 : 28 : Clicking on login button 
+2023-09-14 16:11:39,084 : INFO : test_product_select_003 : 28 : Clicking on login button 
+2023-09-14 16:11:39,430 : INFO : test_page_title_001 : 21 : Taking screenshot 
+2023-09-14 16:11:40,799 : INFO : test_product_select_003 : 31 : Clicking on bag option 
+2023-09-14 16:11:40,799 : INFO : test_product_select_003 : 31 : Clicking on bag option 
+2023-09-14 16:11:41,201 : INFO : test_product_select_003 : 33 : Clicking on addcart menu 
+2023-09-14 16:11:41,201 : INFO : test_product_select_003 : 33 : Clicking on addcart menu 
+2023-09-14 16:11:41,240 : INFO : test_page_title_001 : 25 : Testcase test_page_title_001 is passed 
+2023-09-14 16:11:41,241 : INFO : test_page_title_001 : 33 : Testcase test_page_title_001 is comleted 
+2023-09-14 16:11:41,354 : INFO : test_product_select_003 : 35 : Clicking on back option 
+2023-09-14 16:11:41,354 : INFO : test_product_select_003 : 35 : Clicking on back option 
+2023-09-14 16:11:41,726 : INFO : test_product_select_003 : 37 : Clicking on Tshirt option 
+2023-09-14 16:11:41,726 : INFO : test_product_select_003 : 37 : Clicking on Tshirt option 
+2023-09-14 16:11:41,825 : INFO : test_product_select_003 : 39 : Clicking on addcart menu 
+2023-09-14 16:11:41,825 : INFO : test_product_select_003 : 39 : Clicking on addcart menu 
+2023-09-14 16:11:41,895 : INFO : test_product_select_003 : 41 : Clicking on cart menu 
+2023-09-14 16:11:41,895 : INFO : test_product_select_003 : 41 : Clicking on cart menu 
+2023-09-14 16:11:42,119 : INFO : test_product_select_003 : 43 : checking your message 
+2023-09-14 16:11:42,119 : INFO : test_product_select_003 : 43 : checking your message 
+2023-09-14 16:11:42,154 : INFO : test_product_select_003 : 45 : Taking screenshot for allure report 
+2023-09-14 16:11:42,154 : INFO : test_product_select_003 : 45 : Taking screenshot for allure report 
+2023-09-14 16:11:42,438 : INFO : test_product_select_003 : 48 : Testcase test_product_select_003 passed 
+2023-09-14 16:11:42,438 : INFO : test_product_select_003 : 48 : Testcase test_product_select_003 passed 
+2023-09-14 16:11:42,438 : INFO : test_product_select_003 : 55 : Testcase test_product_select_003 Complited 
+2023-09-14 16:11:42,438 : INFO : test_product_select_003 : 55 : Testcase test_product_select_003 Complited 

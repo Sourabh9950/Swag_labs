@@ -1,0 +1,10 @@
+[32mINFO    [0m Test_Login:test_login.py:31 Testcase test_login_002 is started
+[32mINFO    [0m Test_Login:test_login.py:32 Opening browser
+[32mINFO    [0m Test_Login:test_login.py:35 Entering username
+[32mINFO    [0m Test_Login:test_login.py:37 Entering password
+[32mINFO    [0m Test_Login:test_login.py:39 Clicking on login button
+[32mINFO    [0m Test_Login:test_login.py:41 Checking login status
+[32mINFO    [0m Test_Login:test_login.py:43 Taking screenshot
+[32mINFO    [0m Test_Login:test_login.py:49 Clicking on menu button
+[32mINFO    [0m Test_Login:test_login.py:53 Clicking on logout button
+[32mINFO    [0m Test_Login:test_login.py:56 Testcase test_login_002 is passed

@@ -1,0 +1,15 @@
+[32mINFO    [0m Test_Product_select:test_product_select.py:20 Testcase test_login_002 is started
+[32mINFO    [0m Test_Product_select:test_product_select.py:21 Opening browser
+[32mINFO    [0m Test_Product_select:test_product_select.py:24 Entering username:standard_user
+[32mINFO    [0m Test_Product_select:test_product_select.py:26 Entering password:secret_sauce
+[32mINFO    [0m Test_Product_select:test_product_select.py:28 Clicking on login button
+[32mINFO    [0m Test_Product_select:test_product_select.py:31 Clicking on bag option
+[32mINFO    [0m Test_Product_select:test_product_select.py:33 Clicking on addcart menu
+[32mINFO    [0m Test_Product_select:test_product_select.py:35 Clicking on back option
+[32mINFO    [0m Test_Product_select:test_product_select.py:37 Clicking on Tshirt option
+[32mINFO    [0m Test_Product_select:test_product_select.py:39 Clicking on addcart menu
+[32mINFO    [0m Test_Product_select:test_product_select.py:41 Clicking on cart menu
+[32mINFO    [0m Test_Product_select:test_product_select.py:43 checking your message
+[32mINFO    [0m Test_Product_select:test_product_select.py:45 Taking screenshot for allure report
+[32mINFO    [0m Test_Product_select:test_product_select.py:48 Testcase test_product_select_003 passed
+[32mINFO    [0m Test_Product_select:test_product_select.py:55 Testcase test_product_select_003 Complited

@@ -1,0 +1,6 @@
+[32mINFO    [0m Test_Login:test_login.py:15 Testcase test_page_title_001 is started
+[32mINFO    [0m Test_Login:test_login.py:16 Opening browser
+[32mINFO    [0m Test_Login:test_login.py:18 Page title isSwag Labs
+[32mINFO    [0m Test_Login:test_login.py:21 Taking screenshot
+[32mINFO    [0m Test_Login:test_login.py:25 Testcase test_page_title_001 is passed
+[32mINFO    [0m Test_Login:test_login.py:33 Testcase test_page_title_001 is comleted
